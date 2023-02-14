@@ -11,6 +11,7 @@ To run the app locally, install:
 
 - `git` (configured with ssh) [[link](https://git-scm.com/downloads)]
 - `node` [[link](https://nodejs.org/en/download/)]
+- `PostgreSQL` [[link](https://www.postgresql.org/)]
 - `Postman` to demo hit the APIs [[link](https://www.postman.com/downloads/)]
 
 ## :arrow_heading_down: Installation
