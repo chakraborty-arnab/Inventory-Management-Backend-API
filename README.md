@@ -3,7 +3,7 @@
 
 RESTful Backend API service.
 
-Reference: [Swaggerhub](https://app.swaggerhub.com/apis-docs/csye6225-webapp/cloud-native-webapp/spring2023-a1#/public/post_v1_user)
+Reference: [Swaggerhub](https://app.swaggerhub.com/apis-docs/csye6225-webapp/cloud-native-webapp/spring2023-a2)
 
 ## :package: Prerequisites
 
