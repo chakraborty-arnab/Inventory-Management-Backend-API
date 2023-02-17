@@ -16,6 +16,7 @@ db.Sequelize = Sequelize
 db.sequelize = sequelize
 
 db.users = require('./user.model')(sequelize, Sequelize)
+db.products = require('./product.model')(sequelize, Sequelize)
 
 db.connectionTest = async (req, res) => {
   try {
