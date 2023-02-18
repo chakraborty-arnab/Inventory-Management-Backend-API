@@ -1,4 +1,6 @@
-# :spider_web: Restful Backend API service for Inventory Management
+# :spider_web: Restful API service
+
+Managing User and Inventory with CRUD operations
 
 Reference: [Swaggerhub](https://app.swaggerhub.com/apis-docs/csye6225-webapp/cloud-native-webapp/spring2023-a2)
 
