@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Web application for CSYE-6225",
   "main": "index.js",
-  "repository": "git@github.com:rishabhindoria25/webapp.git",
-  "author": "Rishabh Indoria <indoria.r@northeastern.edu>",
+  "repository": "git@github.com:chakraborty-arnab/Logist-X.git",
+  "author": "Arnab Chakraborty <chakraborty.arn@northeastern.edu>",
   "license": "MIT",
   "private": true,
   "scripts": {
